@@ -3,3 +3,5 @@ diffusers==0.4.0
 transformers
 scipy
 ftfy
+
+##https://fastapi.tiangolo.com/tutorial/first-steps/##
